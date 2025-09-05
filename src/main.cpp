@@ -60,7 +60,7 @@ const int daylightSavings = 3600;
 #define WIFI_PASSWORD "" // NOTE: Please delete value before submitting
 
 // Azure IoT Hub configuration
-#define SAS_TOKEN "SharedAccessSignature sr=group12iothub.azure-devices.net%2Fdevices%2F147esp32&sig=SLyBhvzra0%2FGfw6wrnk03wwspR1r7NfNJRzJV5ugXNM%3D&se=1757615942"
+#define SAS_TOKEN ""
 // Root CA certificate for Azure IoT Hub
 const char* root_ca = \
 "-----BEGIN CERTIFICATE-----\n" \
